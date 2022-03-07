@@ -15,23 +15,23 @@
 |Summer 1998 | [vol 15 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol15no1-2.pdf) ||
 |Winter 1998 | [vol 15 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol15no3.pdf) ||
 |Summer 1999 | [vol 16 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol16no1-2.pdf) ||
-|Winter 1999 | [vol 16 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol16no3.pdf) | "Data Science" |
+|Winter 1999 | [vol 16 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol16no3.pdf) | Early mention of "Data Science" |
 |Spring 2000 | [vol 17 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol17no1.pdf) ||
 |Summer 2000 | [vol 17 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol17no2.pdf) ||
 |Winter 2000 | [vol 17 no 3](https://web.archive.org/web/20080226022338id_/http://www.amstat.org:80/sections/cnsl/newsletter/html_archive/vol17no3.html) | ?HTML? |
-||[vol 18 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no1.pdf) ||
-||[vol 18 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no2.pdf) ||
-||[vol 18 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no3.pdf) ||
-||[vol 19 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol19no1-2.pdf) ||
-||[vol 20 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol20no1.pdf) ||
-||[vol 20 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol20no2.pdf) ||
-||[vol 21 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol21no1.pdf) ||
-||[vol 21 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol21no2.pdf) ||
-||[vol 21 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol21no3.pdf) ||
-||[vol 22 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol22no2.pdf) ||
-||[vol 22 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol22no3.pdf) ||
-||[vol 23 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol23no1.pdf) ||
-||[vol 23 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol23no2.pdf) ||
+|Spring 2001 | [vol 18 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no1.pdf) ||
+|Summer 2001 | [vol 18 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no2.pdf) ||
+|Winter 2001 | [vol 18 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no3.pdf) | "Checklists to Consider in a Private Consulting Practice" |
+|Summer 2002 | [vol 19 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol19no1-2.pdf) | "The Impact of the Internet and Technology on Consulting Practice" |
+|Spring 2003 | [vol 20 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol20no1.pdf) | "Statistics Consulting in an Academic Institution" |
+|Summer 2003 | [vol 20 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol20no2.pdf) ||
+|Spring 2004 | [vol 21 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol21no1.pdf) | "Statistical Consulting Sessions: Clients’ Perspectives" |
+|Summer 2004 | [vol 21 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol21no2.pdf) | "Beyond Statistics Expertise: Tips on Building a Successful Statistical Consulting Business" |
+|Winter 2004 |[vol 21 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol21no3.pdf) | "Survey of Members of the ASA Statistical Consulting Section: A Brief Report" |
+|Summer 2005 |[vol 22 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol22no2.pdf) | "Budgeting: Data Management and Statistical Analyses" |
+|Fall 2005 | [vol 22 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol22no3.pdf) ||
+|Spring 2006 | [vol 23 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol23no1.pdf) ||
+|Summer 2006 | [vol 23 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol23no2.pdf) | "Going Rates for Statistical Consulting: Results from the Statistical Consulting Section Rates - Survey Results" <br/> "Consulting After Academics" <br/> "SAS PROS and CONS: PROfits, PROfessionals, PROviders, PROmoters, CONtracts, CONsulting and CONjobs" <br/> |
 ||[vol 24 no 2](https://web.archive.org/web/20220302214037id_/https://www.glaserconsult.com/docs/editorials/vol24no2.pdf) ||
 ||[vol 25 no 1](https://web.archive.org/web/20130307024532id_/http://www.amstat.org/sections/cnsl/newsletter/pdf_archive/vol25no1.pdf) ||
 ||[vol 27 no 1](https://web.archive.org/web/20220307180921id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2010%20v27.1%20CNSL%20Newsletter.pdf) ||
