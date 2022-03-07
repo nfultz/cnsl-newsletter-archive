@@ -1,4 +1,11 @@
-https://web.archive.org/web/20070331051646/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol12no1.pdf
+# ASA Statistical Consulting Section Newsletter Archive 
+
+
+
+|Date|Archive Link|Comments|
+|---|---|---|
+|Spring 1995 | [vol 12 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol12no1.pdf) ||
+
 https://web.archive.org/web/20070331051646/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol12no2.pdf
 https://web.archive.org/web/20070331051646/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol13no1.pdf
 https://web.archive.org/web/20070331051646/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol13no2.pdf
