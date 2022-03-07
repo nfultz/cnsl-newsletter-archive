@@ -46,7 +46,7 @@
 |Spring 2016 | [vol 32 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/StatisticalConsultant_v32no1.pdf) ||
 |Summer 2016 | [vol 32 no 2](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_v32no2.pdf)| "Reaching Out to Data Scientists" |
 |Spring 2017 | [vol 33 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_Vol33No1.pdf)||
-|Summer 2017 |[vol 33 no 2](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_Vol33No2.pdf)||
+|Summer 2017 |[vol 33 no 2](https://web.archive.org/web/20220307225503id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_Vol33No2.pdf)||
 
 
 
