@@ -37,16 +37,16 @@
 |Winter 2010 |[vol 27 no 1](https://web.archive.org/web/20220307180921id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2010%20v27.1%20CNSL%20Newsletter.pdf) ||
 |Summer 2010 |[vol 27 no 2](https://web.archive.org/web/20220307194040id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2010%20v27.2%20CNSL%20Newsletter.pdf) | "Professional Liability Insurance – Advice from the Membership" |
 |Winter 2011 |[vol 28 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2011%20v28.1%20CNSL%20Newsletter.pdf) ||
-|Summer 2011 | [vol 28 no 2](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2011%20v28.2%20CNSL%20Newsletter.pdf) ||
-|Summer 2012 |[vol 29 no 1](https://web.archive.org/web/20220307201014id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2012%20v29.1%20CNSL%20Newsletter.pdf) ||
-||[vol 30 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2014%20v30.1%20CNSL%20Newsletter.pdf) ||
-||[vol 30 no 2](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2014%20v30.2%20CNSL%20Newsletter.pdf) ||
-||[vol 30 no 3](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedFiles/StatisticalConsultant_v30no3.pdf) ||
+|Summer 2011 | [vol 28 no 2](https://web.archive.org/web/20220307200929id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2011%20v28.2%20CNSL%20Newsletter.pdf) ||
+|Summer 2012 | [vol 29 no 1](https://web.archive.org/web/20220307201014id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2012%20v29.1%20CNSL%20Newsletter.pdf) ||
+|Winter 2014 | [vol 30 no 1](https://web.archive.org/web/20220307200952id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2014%20v30.1%20CNSL%20Newsletter.pdf) ||
+|Summer 2014 | [vol 30 no 2](https://web.archive.org/web/20220307201113id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2014%20v30.2%20CNSL%20Newsletter.pdf) ||
+| ??? |[vol 30 no 3](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedFiles/StatisticalConsultant_v30no3.pdf) | Broken Link |
 ||[vol 31 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/StatisticalConsultant_v31no1.pdf) ||
-||[vol 32 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/StatisticalConsultant_v32no1.pdf) ||
-||[vol 32 no 2](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_v32no2.pdf)||
-||[vol 33 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_Vol33No1.pdf)||
-||[vol 33 no 2](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_Vol33No2.pdf)||
+|Spring 2016 | [vol 32 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/StatisticalConsultant_v32no1.pdf) ||
+|Summer 2016 | [vol 32 no 2](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_v32no2.pdf)| "Reaching Out to Data Scientists" |
+|Spring 2017 | [vol 33 no 1](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_Vol33No1.pdf)||
+|Summer 2017 |[vol 33 no 2](https://web.archive.org/web/20210331051646id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/2000s/StatisticalConsultant_Vol33No2.pdf)||
 
 
 
