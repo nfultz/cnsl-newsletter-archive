@@ -11,14 +11,14 @@
 |Winter 1996 | [vol 13 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol13no3.pdf) ||
 |Spring 1997 | [vol 14 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol14no1.pdf) ||
 |Summer 1997 | [vol 14 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol14no2.pdf) ||
-||[vol 14 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol14no3.pdf) ||
-||[vol 15 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol15no1-2.pdf) ||
-||[vol 15 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol15no3.pdf) ||
-||[vol 16 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol16no1-2.pdf) ||
-||[vol 16 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol16no3.pdf) ||
-||[vol 17 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol17no1.pdf) ||
-||[vol 17 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol17no2.pdf) ||
-||[vol 17 no 3](https://web.archive.org/web/20080226022338id_/http://www.amstat.org:80/sections/cnsl/newsletter/html_archive/vol17no3.html) | ?HTML? |
+|Winter 1997 | [vol 14 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol14no3.pdf) | Starting Your Own Company |
+|Summer 1998 | [vol 15 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol15no1-2.pdf) ||
+|Winter 1998 | [vol 15 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol15no3.pdf) ||
+|Summer 1999 | [vol 16 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol16no1-2.pdf) ||
+|Winter 1999 | [vol 16 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol16no3.pdf) | "Data Science" |
+|Spring 2000 | [vol 17 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol17no1.pdf) ||
+|Summer 2000 | [vol 17 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol17no2.pdf) ||
+|Winter 2000 | [vol 17 no 3](https://web.archive.org/web/20080226022338id_/http://www.amstat.org:80/sections/cnsl/newsletter/html_archive/vol17no3.html) | ?HTML? |
 ||[vol 18 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no1.pdf) ||
 ||[vol 18 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no2.pdf) ||
 ||[vol 18 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol18no3.pdf) ||
