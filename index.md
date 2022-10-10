@@ -4,9 +4,11 @@
 
 |Date|Archive Link|Comments|
 |---|---|---|
+|Summer 1993 | [vol 10 no 2](https://web.archive.org/web/20221010223520/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%2010.2%20Summer%201993.pdf) | |
+|Winter 1993 | [vol 10 no 3](https://web.archive.org/web/20221010212522/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%2010.3%20Winter%201993.pdf) | |
 |Spring 1994 | [vol 11 no 1](https://web.archive.org/web/20221010212402/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%2011.1%20Spring%201994.pdf) | |
 |Summer 1994 | [vol 11 no 2](https://web.archive.org/web/20221010212503id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%2011.2%20Summer%201994.pdf) | A Problem in Statistical Consulting Ethics|
-|Winter 1994 | [vol 11 no 3](https://web.archive.org/web/20221010212423id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%2011.3%20Winter%201994.pdf) ||
+|Winter 1994 | [vol 11 no 3](https://web.archive.org/web/20221010212423id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%2011.3%20Winter%201994.pdf) |A Modest Proposal|
 |Spring 1995 | [vol 12 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol12no1.pdf) ||
 |Summer 1995 | [vol 12 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol12no2.pdf) ||
 |Spring 1996 | [vol 13 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol13no1.pdf) ||
