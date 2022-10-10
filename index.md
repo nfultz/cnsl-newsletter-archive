@@ -4,6 +4,9 @@
 
 |Date|Archive Link|Comments|
 |---|---|---|
+|Spring 1991 | [vol 8 no 1](https://web.archive.org/web/20221010212427/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%208.1%20Spring%201991.pdf) |"Selling Executives With Statistics"|
+|Summer 1991 | [vol 8 no 2](https://web.archive.org/web/20221010212409id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%208.2%20Summer%201991.pdf) | "Quick, I Need a P-Value" |
+|Autumn 1991 | [vol 8 no 3](https://web.archive.org/web/20221010212456id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%208.3%20Autumn%201991.pdf) | |
 |Spring 1992 | [vol 9 no 1](https://web.archive.org/web/20221010212355id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%209.1%20Spring%201992.pdf) | |
 |Summer 1992 | [vol 9 no 2](https://web.archive.org/web/20221010212422id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%209.2%20Summer%201992.pdf) | |
 |Winter 1993 | [vol 9 no 3](https://web.archive.org/web/20221010212444id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%209.3%20Winter%201993.pdf) | "Credit Scoring - Reject Inference" |
