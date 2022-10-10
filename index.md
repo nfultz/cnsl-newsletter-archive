@@ -4,6 +4,8 @@
 
 |Date|Archive Link|Comments|
 |---|---|---|
+|Spring 1990| [vol 7 no 1](https://web.archive.org/web/20221010212429id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%207.1%20Spring%201990.pdf)|
+|Summer 1990 | [vol 7 no 2](https://web.archive.org/web/20221010212351id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%207.2%20Summer%201990.pdf) ||
 |Spring 1991 | [vol 8 no 1](https://web.archive.org/web/20221010212427/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%208.1%20Spring%201991.pdf) |"Selling Executives With Statistics"|
 |Summer 1991 | [vol 8 no 2](https://web.archive.org/web/20221010212409id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%208.2%20Summer%201991.pdf) | "Quick, I Need a P-Value" |
 |Autumn 1991 | [vol 8 no 3](https://web.archive.org/web/20221010212456id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1990s/Stat%20Consulting%20newsletter%208.3%20Autumn%201991.pdf) | |
