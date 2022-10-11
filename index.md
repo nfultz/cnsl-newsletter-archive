@@ -4,6 +4,13 @@
 
 |Date|Archive Link|Comments|
 |---|---|---|
+|Summer 1984| [vol 1 no 1](https://web.archive.org/web/20221010212437id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%201.1%20June%201984.pdf)||
+|Fall 1984| [vol 1 no 2](https://web.archive.org/web/20221010212353id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%201.2%20Fall%201984.pdf) ||
+|Spring 1985| [vol 2 no 1](https://web.archive.org/web/20221010212415id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%202.1%20Spring%201985.pdf) | |
+|Summer 1986| [vol 3 no 1](https://web.archive.org/web/20221010212425id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%203.1%20Spring%201986.pdf)||
+|Spring 1987| [vol 4 no 1](https://web.archive.org/web/20221010212443id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%204.1%20Spring%201987.pdf) ||
+|Summer 1987| [vol 4 no 2](https://web.archive.org/web/20221010212438id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%204.2%20Summer%201987.pdf) ||
+|Autumn 1987| [vol 4 no 3](https://web.archive.org/web/20221010212405id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%204.3%20Autumn%201987.pdf) ||
 |Summer 1988| [vol 5 no 2](https://web.archive.org/web/20221010212435id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%205.2%20Summer%201988.pdf) ||
 |Fall 1988| [vol 5 no 3](https://web.archive.org/web/20221010212447id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%205.3%20Fall%201988.pdf) ||
 |Spring 1989| [vol 6 no 1](https://web.archive.org/web/20221010212457id_/https://higherlogicdownload.s3.amazonaws.com/AMSTAT/f6e8f6fd-6343-44e2-aa52-8b4e405c5457/UploadedImages/Newsletters/1980s/Stat%20Consulting%20newsletter%206.1%20Spring%201989.pdf) ||
