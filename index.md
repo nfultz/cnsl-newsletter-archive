@@ -35,7 +35,7 @@
 |Winter 1996 | [vol 13 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol13no3.pdf) ||
 |Spring 1997 | [vol 14 no 1](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol14no1.pdf) ||
 |Summer 1997 | [vol 14 no 2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol14no2.pdf) ||
-|Winter 1997 | [vol 14 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol14no3.pdf) | Starting Your Own Company |
+|Winter 1997 | [vol 14 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol14no3.pdf) | Starting Your Own Company, Boen Zahn Reprint Announcement  |
 |Summer 1998 | [vol 15 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol15no1-2.pdf) ||
 |Winter 1998 | [vol 15 no 3](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol15no3.pdf) ||
 |Summer 1999 | [vol 16 no 1-2](https://web.archive.org/web/20070331051646id_/http://www.amstat.org:80/sections/cnsl/newsletter/pdf_archive/vol16no1-2.pdf) | Early mention of "Data Science" |
